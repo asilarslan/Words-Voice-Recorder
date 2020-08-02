@@ -6,4 +6,4 @@
 ![Screenshot](https://raw.githubusercontent.com/asilarslan/Words-Voice-Recorder/master/Screenshots/IMG-4.PNG)
 ![Screenshot](https://raw.githubusercontent.com/asilarslan/Words-Voice-Recorder/master/Screenshots/IMG-5.PNG)
 ![Screenshot](https://raw.githubusercontent.com/asilarslan/Words-Voice-Recorder/master/Screenshots/IMG-6.PNG)
-![Screenshot](https://raw.githubusercontent.com/asilarslan/Words-Voice-Recorder/master/Screenshots/IMG-7.PNG)
+![Screenshot](https://raw.githubusercontent.com/asilarslan/Words-Voice-Recorder/master/Screenshots/IMG-7.png)
